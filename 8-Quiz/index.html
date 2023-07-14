@@ -1,15 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
     <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="../8-Quiz/style.css">
 </head>
+
 <body>
     <nav>
         <a href="/" aria-current="page">Home</a>
     </nav>
-    
+
+    <main>
+        <div class="container">
+            <h1 class="questions">Quiz</h1>
+            <ul>
+                <li>
+                    <input type="radio" name="answer" id="ans1" class="answer">
+                    <label for="ans1" class="ans1" id="option1">Answer Option1</label>
+                </li>
+                <li>
+                    <input type="radio" name="answer" id="ans2" class="answer">
+                    <label for="ans2" id="option2">Answer Option2</label>
+                </li>
+                <li>
+                    <input type="radio" name="answer" id="ans3" class="answer">
+                    <label for="ans3" id="option3">Answer Option3</label>
+                </li>
+                <li>
+                    <input type="radio" name="answer" id="ans4" class="answer">
+                    <label for="ans4" id="option4">Answer Option4</label>
+                </li>
+            </ul>
+            <button id="submit" class="btn">Submit</button>
+            <div id="results" class="score"></div>
+        </div>
+    </main>
+
 </body>
+
 </html>
