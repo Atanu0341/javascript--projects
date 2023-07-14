@@ -25,6 +25,69 @@ const ques = [
         c: "24th",
         d: "22th",
         ans: "ans3"
+    },
+    {
+        question: "Which of the following is not a part of the human digestive system?",
+
+        a: "Liver",
+        b: "Pancreas",
+        c: "Spleen",
+        d: "Stomach",
+        ans: "ans3"
+    },
+    {
+        question: "The National school of Drama is situated in which of the following cities?",
+
+        a: "Mumbai",
+        b: "Kolkata",
+        c: "New Delhi",
+        d: "Chennai",
+        ans: "ans3"
+    },
+    {
+        question: "The 2017 Indian Premier League (IPL 2017) first match on 5 April, 2017 was held in ?",
+        
+        a: "Hyderabad",
+        b: "Kolkata",
+        c: "Mumbai",
+        d: "Bangalore",
+        ans: "ans1"
+    },
+    {
+        question: "Which one of the following Cricketers has been declared by the ICC as 'Cricketer of the Twentieth Century' ?",
+
+        a: "Kapil Dev",
+        b: "Sunil Gavaskar",
+        c: "Sachin Tendulkar",
+        d: "Anil Kumble",
+        ans: "ans3"
+    },
+    {
+        question: "The largest and the oldest museum of India is located in the state/union territory of ",
+
+        a: "Maharashtra",
+        b: "West Bengal",
+        c: "Tamil Nadu",
+        d: "Delhi",
+        ans: "ans2"
+    },
+    {
+        question: "Which city is known as 'City of Blood' in India ?",
+
+        a: "Bhopal",
+        b: "Jaipur",
+        c: "Yavatmal",
+        d: "Tezpur",
+        ans: "ans4"
+    },
+    {
+        question: "The world famous 'Khajuraho' sculptures are located in ",
+
+        a: "Madhya Pradesh",
+        b: "Uttar Pradesh",
+        c: "Rajasthan",
+        d: "Maharashtra",
+        ans: "ans1"
     }
 ];
 
