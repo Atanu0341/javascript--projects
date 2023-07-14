@@ -37,7 +37,7 @@ const option4 = document.querySelector('#option4');
 
 const submit = document.querySelector('#submit');
 const answers = document.querySelectorAll('.answer');
-const results = document.querySelector('#results');
+const showScore = document.querySelector('#showScore');
 
 let questionCount = 0;
 const loadQuestion = (questionCount) => {
@@ -83,12 +83,12 @@ submit.addEventListener('click', () => {
         loadQuestion(questionCount);
     }
     else {
-        results.innerHTML = `
-        <h3>You scored ${score}/${ques.length} </h3>
+        showScore.innerHTML = `
+        <h3>You scored ${score}/${ques.length} ✌️ </h3>
         <button class="btn" onclick="location.reload()">Play Again</button>
         `;
 
-        results.classList.remove('showScore');
+        showScore.classList.remove('scoreArea');
     }
 });
 
