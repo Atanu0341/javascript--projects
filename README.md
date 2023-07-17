@@ -14,3 +14,5 @@ This repository documents my journey of creating unique JavaScript project. Each
 | 6               | Keyboard check 👻    | [Live Demo](https://javascript-projects-plum.vercel.app/6-KeybordCheck/index.html) |
 | 7               | Unlimited Colors 🧠    | [Live Demo](https://javascript-projects-plum.vercel.app/7-UnlimitedColors/index.html) |
 | 8               | Quiz ❓                | [Live Demo](https://javascript-projects-plum.vercel.app/8-Quiz/index.html) |
+| 9               | Snake, Water and Gun 🐍    | [Live Demo](https://javascript-projects-plum.vercel.app/9-SnakeWaterGun/index.html) |
+| 10              | Random Jokes 😂                | [Live Demo](https://javascript-projects-plum.vercel.app/10-randomJokes/index.html) |
