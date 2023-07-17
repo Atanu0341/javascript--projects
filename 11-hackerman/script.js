@@ -1,6 +1,6 @@
 let a = [
   "Initializing Hack tool...",
-  "Connecting to Facebook...",
+  "Connecting to Instagram...",
   "Connecting to server 1...",
   "Connection failed. Retrying...",
   "Connecting to server 2",
