@@ -7,7 +7,7 @@ function addTask() {
     }
     else {
         let li = document.createElement("li");
-        li.innerHTML = inputBox.value;
+        li.innerHTML = inputBox.value + " (" + getCurrentTimestamp() + ")";
         listContainer.appendChild(li);
         let span = document.createElement("span");
         span.innerHTML = "\u00D7";
@@ -15,6 +15,12 @@ function addTask() {
     }
     inputBox.value = "";
     saveData();
+}
+
+function getCurrentTimestamp() {
+    const now = new Date();
+    const timestamp = now.toLocaleString(); 
+    return timestamp;
 }
 
 listContainer.addEventListener("click", function (e) {
