@@ -17,5 +17,5 @@ This repository documents my journey of creating unique JavaScript project. Each
 | 9               | Snake, Water and Gun 🐍    | [Live Demo](https://javascript-projects-plum.vercel.app/9-SnakeWaterGun/index.html) |
 | 10              | Random Jokes 😂                | [Live Demo](https://javascript-projects-plum.vercel.app/10-randomJokes/index.html) |
 | 11              | Hackerman 👨‍💻                | [Live Demo](https://javascript-projects-plum.vercel.app/11-hackerman/index.html) |
-| 12              | Weather App                | [Live Demo](https://javascript-projects-plum.vercel.app/11-hackerman/index.html) |
-| 13              | Image SearchEngine                | [Live Demo](https://javascript-projects-plum.vercel.app/11-hackerman/index.html) |
+| 12              | Weather App                | [Live Demo](https://javascript-projects-plum.vercel.app/12-Weather-App/index.html) |
+| 13              | Image SearchEngine                | [Live Demo](https://javascript-projects-plum.vercel.app/13-Image-Search-Engine/index.html) |
